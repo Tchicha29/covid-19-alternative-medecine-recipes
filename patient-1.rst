@@ -152,8 +152,8 @@ MON QUOTIDIEN
 * Je mets mes sacs poubelles du non-recyclable dans un container fermé, je ne fais pas de compost pour ne pas contaminer des animaux/insectes divers. Après, j'ai du bol, je suis dans une maison en bord de mer prêtée par des amis. Donc c'est plus facile pour moi que pour d'autres ça j'en conviens.
 * Je fais le choix personnel de ne pas trop utiliser le doliprane, mais je ne me l'interdis pas. La fièvre m'indique une infection, un état fébrile. Avec tout ce que je prends déjà, j'accompagne mon corps à essayer de combattre ce virus. J'en ai pris 2 depuis le début...
 
-Recettes
-========
+Astuces
+=======
 
 Sirop maison pour renforcer votre système immunitaire 
 *****************************************************

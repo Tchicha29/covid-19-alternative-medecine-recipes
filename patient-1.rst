@@ -212,14 +212,14 @@ Les plus grandes sources de protéines sont les lentilles, pois cassés, haricot
 Consommez des « bonnes graisses »
 *********************************
 
-Toutes les graisses ne sont pas dangereuses pour notre organisme. Vous devez commencer, dès aujourd’hui, à manger plus de graisses non saturées que de '''graisses''' saturées.
+Toutes les graisses ne sont pas dangereuses pour notre organisme. Vous devez commencer, dès aujourd’hui, à manger plus de graisses non saturées que de **graisses** saturées.
 
 Elles vous apporteront de nombreux bénéfices. Elles vous permettront par ailleurs d’éviter les problèmes cardiaques, le cholestérol et l’hypertension. 
 
 Réduisez les hydrates de carbone
 ********************************
 
-'''Ingérez les quantités appropriées de céréales (toujours complètes) pour que votre corps puisse produire plus de globules blancs.''' A l’inverse, les hydrates de carbone issus des farines raffinées (dites blanches) vous priveront d’une bonne production de lymphocytes, ce qui se traduit par une réponse immunitaire faible.
+**Ingérez les quantités appropriées de céréales (toujours complètes) pour que votre corps puisse produire plus de globules blancs.** A l’inverse, les hydrates de carbone issus des farines raffinées (dites blanches) vous priveront d’une bonne production de lymphocytes, ce qui se traduit par une réponse immunitaire faible.
 
 Mangez plus d’aliments qui améliorent vos défenses
 **************************************************
@@ -229,6 +229,6 @@ En plus du gingembre, du miel et du citron, n’hésitez pas à ajouter à votre
 Consommez plus d’antioxydants
 *****************************
 
-Les antioxydants sont présents dans de nombreux aliments et ont la capacité d’éliminer les toxines, mais également de réparer les cellules endommagées par les virus et les bactéries. '''Les antioxydants les plus puissants sont les vitamines C et E, le bêtacarotène, le sélénium et le zinc.'''
+Les antioxydants sont présents dans de nombreux aliments et ont la capacité d’éliminer les toxines, mais également de réparer les cellules endommagées par les virus et les bactéries. **Les antioxydants les plus puissants sont les vitamines C et E, le bêtacarotène, le sélénium et le zinc**.
 
 Vous pouvez les trouver dans les betteraves rouges, les carottes, le maïs, le brocoli, les oranges, les noix, le tournesol, les épinards, etc....

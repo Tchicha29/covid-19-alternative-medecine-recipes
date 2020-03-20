@@ -10,9 +10,19 @@ Que la force de l'Open Source soit avec nous, malades et futurs malades !
 A vos commits, prêts, feu, partez !
 
 Tester ses symptômes par un questionnaire
-=========================================
+-----------------------------------------
 
 https://maladiecoronavirus.fr/
+
+Une compilation de remèdes
+--------------------------
+
+https://github.com/betaglop/covid-19-alternative-medecine-recipes/blob/master/remedies-compilation.rst
+
+Des expériences de malades
+--------------------------
+
+#. https://github.com/betaglop/covid-19-alternative-medecine-recipes/blob/master/patient-1.rst
 
 Petit condensé sur la pandémie de Coronavirus
 =============================================
